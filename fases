@@ -1,0 +1,10 @@
+# fases do game
+
+#fase um
+nomeFase1: Deserto Infinito
+objetivoFase1: encontre uma saída
+
+#fase dois
+
+nomeFase2: Caverna das montanhas
+objetivoFase2: encontre o mercador e obtenha a espada das trevas 
