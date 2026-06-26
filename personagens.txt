@@ -1,0 +1,22 @@
+Personagens : F1-NN, L3-0N, TR-0N e N0-V4.
+
+F1-NN :
+
+Vida : 110
+Ataque : 15 
+Habilidade Especial : Erro 404 - Gera um choque poderoso que permite paralisar todos os inimigos presentes na tela por 4 segundos. Sua habilidade recarrega em 20 segundos.
+
+L3-0N :
+Vida : 120
+ataque : 8
+Habilidade Especial : Laser do desespero - Quando seu HP está abaixo de 20%, L3-0N pode liberar um laser poderoso que causa 5x o seu dano base. Dura 5 segundos e recarrega em 30 segundos.
+
+TR-0N :
+Vida : 80
+Ataque : 30
+Habilidade Especial : Fúria dos caídos - Quando TR-0N é derrotado, sua habilidade é ativada. Sua habilidade faz com que TR-0N cure metade de seu HP e cause 1,5x mais dano aos seus inimigos, porém, faz com que ele receba o dobro de dano para os inimigos. Pode ser ativada apenas uma vez por partida.
+
+N0-V4 :
+Vida : 100
+Ataque : 10
+Habilidade Especial : Contra-ataque - Pode bloquear e contra-atacar ataques inimigos (ou em outras palavras, dar parry). Um contra-ataque bem sucedido causará o triplo do dano de N0-V4 ao inimigo. Sua habilidade pode ser utilizada logo após um primeiro contra-ataque bem sucedido e sequencialmente. Caso N0-V4 erre o tempo de contra-ataque, deverá aguardar 10 segundos para utilizar novamente.
